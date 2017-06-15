@@ -1,9 +1,9 @@
 {
-    "name": "zrashwani/arachnid",
+    "name": "thewinterwind/arachnid",
     "type": "library",
     "description": "A crawler to find all unique internal pages on a given website",
     "keywords": ["crawl","spider","search","scrape"],
-    "homepage": "http://github.com/zrashwani/arachnid",
+    "homepage": "http://github.com/thewinterwind/arachnid",
     "license": "MIT",
     "authors": [
         {
